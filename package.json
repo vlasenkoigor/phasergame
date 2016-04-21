@@ -1,0 +1,14 @@
+{
+  "name": "phasergame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "static-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "static-server": "^2.0.2"
+  }
+}
