@@ -1,5 +1,5 @@
 # phasergame
-phasergame
+Flappy Bird like game written on Phaser.js lib
 
 ###run 
 
